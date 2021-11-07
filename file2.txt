@@ -1,3 +1,0 @@
-"file2
-NEw content is added now here!
-" 
